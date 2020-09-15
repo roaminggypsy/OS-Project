@@ -2,8 +2,6 @@
 
 <h1 align="center">Weenix</h3>
 
----
-
 <p align="center"> 
     <br> 
 </p>
